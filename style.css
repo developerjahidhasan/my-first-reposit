@@ -4,10 +4,13 @@ h1{
 }
 h2{
     color: blue;
+    text-decoration: line-through;
 }
 h3{
     color: green;
+    text-decoration: overline;
 }
 h4{
-    color: orange;
+    color: purple;
+    text-decoration: underline;
 }
